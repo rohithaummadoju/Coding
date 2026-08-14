@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,9 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
