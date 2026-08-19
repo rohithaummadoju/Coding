@@ -105,4 +105,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rohithaummadoju/Coding/tree/master/0012-integer-to-roman) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rohithaummadoju/Coding/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
