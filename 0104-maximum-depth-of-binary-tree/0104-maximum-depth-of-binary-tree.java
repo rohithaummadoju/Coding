@@ -15,7 +15,8 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root==null){
+        //level order Time Complexity is O(N)
+        /*if(root==null){
             return 0;
         }
         int d=0;
@@ -34,6 +35,12 @@ class Solution {
             }
             d++;
         }
-        return d;
+        return d;*/
+        if(root==null){
+            return 0;
+        }
+        int lH=maxDepth(root.left);
+        int rH=maxDepth(root.right);
+        return 1+Math.max(lH,rH);
     }
 }
