@@ -58,6 +58,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/rohithaummadoju/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/0328-odd-even-linked-list) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
