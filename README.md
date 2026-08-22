@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 | [2029-stone-game-ix](https://github.com/rohithaummadoju/Coding/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohithaummadoju/Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -55,6 +57,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/rohithaummadoju/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohithaummadoju/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +123,16 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/rohithaummadoju/Coding/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/rohithaummadoju/Coding/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/rohithaummadoju/Coding/tree/master/1873-calculate-special-bonus) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
