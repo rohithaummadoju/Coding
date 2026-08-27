@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohithaummadoju/Coding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rohithaummadoju/Coding/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
@@ -139,6 +140,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rohithaummadoju/Coding/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohithaummadoju/Coding/tree/master/0118-pascals-triangle) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rohithaummadoju/Coding/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
