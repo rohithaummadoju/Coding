@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rohithaummadoju/Coding/tree/master/0118-pascals-triangle) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
@@ -161,6 +162,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rohithaummadoju/Coding/tree/master/0118-pascals-triangle) |
 ## Queue
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithaummadoju/Coding/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
