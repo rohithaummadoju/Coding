@@ -72,6 +72,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/rohithaummadoju/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohithaummadoju/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/0328-odd-even-linked-list) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -186,8 +188,17 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
