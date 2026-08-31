@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohithaummadoju/Coding/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rohithaummadoju/Coding/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohithaummadoju/Coding/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohithaummadoju/Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/rohithaummadoju/Coding/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rohithaummadoju/Coding/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohithaummadoju/Coding/tree/master/0076-minimum-window-substring) |
 ## Database
 |  |
@@ -198,6 +201,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
