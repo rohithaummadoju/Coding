@@ -74,6 +74,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohithaummadoju/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohithaummadoju/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohithaummadoju/Coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rohithaummadoju/Coding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/0328-odd-even-linked-list) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohithaummadoju/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/rohithaummadoju/Coding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rohithaummadoju/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
