@@ -59,6 +59,7 @@
 | [2029-stone-game-ix](https://github.com/rohithaummadoju/Coding/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohithaummadoju/Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohithaummadoju/Coding/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/rohithaummadoju/Coding/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohithaummadoju/Coding/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/rohithaummadoju/Coding/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
