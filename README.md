@@ -55,6 +55,7 @@
 | [0055-jump-game](https://github.com/rohithaummadoju/Coding/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rohithaummadoju/Coding/tree/master/0118-pascals-triangle) |
+| [0704-binary-search](https://github.com/rohithaummadoju/Coding/tree/master/0704-binary-search) |
 | [1472-design-browser-history](https://github.com/rohithaummadoju/Coding/tree/master/1472-design-browser-history) |
 | [2029-stone-game-ix](https://github.com/rohithaummadoju/Coding/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rohithaummadoju/Coding/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/rohithaummadoju/Coding/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
