@@ -147,6 +147,7 @@
 | [0020-valid-parentheses](https://github.com/rohithaummadoju/Coding/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rohithaummadoju/Coding/tree/master/0076-minimum-window-substring) |
+| [3407-substring-matching-pattern](https://github.com/rohithaummadoju/Coding/tree/master/3407-substring-matching-pattern) |
 ## Database
 |  |
 | ------- |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rohithaummadoju/Coding/tree/master/3903-smallest-stable-index-i) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/rohithaummadoju/Coding/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
