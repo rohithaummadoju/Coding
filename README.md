@@ -53,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohithaummadoju/Coding/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/rohithaummadoju/Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/rohithaummadoju/Coding/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/rohithaummadoju/Coding/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rohithaummadoju/Coding/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rohithaummadoju/Coding/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/rohithaummadoju/Coding/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/rohithaummadoju/Coding/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohithaummadoju/Coding/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
