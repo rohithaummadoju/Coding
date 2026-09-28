@@ -50,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rohithaummadoju/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rohithaummadoju/Coding/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rohithaummadoju/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/rohithaummadoju/Coding/tree/master/0704-binary-search) |
 ## Matrix
