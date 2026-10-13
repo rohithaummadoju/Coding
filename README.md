@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohithaummadoju/Coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rohithaummadoju/Coding/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohithaummadoju/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/rohithaummadoju/Coding/tree/master/0049-group-anagrams) |
@@ -123,6 +124,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohithaummadoju/Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rohithaummadoju/Coding/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/rohithaummadoju/Coding/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -182,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohithaummadoju/Coding/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohithaummadoju/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/rohithaummadoju/Coding/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rohithaummadoju/Coding/tree/master/0142-linked-list-cycle-ii) |
